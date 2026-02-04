@@ -24,7 +24,7 @@ python image-encrypter.py
 
 Login Page  
 
-![Login](login.webp)
+![Login]
 <img width="1193" height="881" alt="Screenshot 2026-02-04 101308" src="https://github.com/user-attachments/assets/c844ab69-74ac-46e7-9d7d-7517042f8a6a" />
 
 Create Account Page  
